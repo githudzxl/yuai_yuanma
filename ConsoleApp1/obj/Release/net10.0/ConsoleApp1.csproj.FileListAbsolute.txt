@@ -1,4 +1,0 @@
-C:\Users\Liang\Downloads\ssjj\雨爱\ConsoleApp1\obj\Release\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Liang\Downloads\ssjj\雨爱\ConsoleApp1\obj\Release\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
-C:\Users\Liang\Downloads\ssjj\雨爱\ConsoleApp1\obj\Release\net10.0\ConsoleApp1.AssemblyInfo.cs
-C:\Users\Liang\Downloads\ssjj\雨爱\ConsoleApp1\obj\Release\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
